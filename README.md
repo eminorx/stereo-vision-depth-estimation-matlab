@@ -28,11 +28,17 @@ Two images of the same scene were captured from slightly different horizontal ca
 ## Files
 
 src/main.m
+
 images/sol.jpg.jpeg
+
 images/sag.jpg.jpeg
+
 data/sol_goruntu_ozellikleri.csv
+
 data/sag_goruntu_ozellikleri.csv
+
 data/ssd_eslestirme_tablosu.csv
+
 data/disparite_z_tablosu.csv
 
 ## Key Learnings
@@ -42,5 +48,7 @@ This project helped me practice stereo vision geometry, image filtering, ROI-bas
 ## Author
 
 Emin Imanov
+
 Electrical and Electronics Engineering Student
+
 Interested in Computer Vision, Data Science, Machine Learning, and Deep Learning
